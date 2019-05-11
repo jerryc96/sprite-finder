@@ -76,8 +76,10 @@ function makeSCSS(boxes, url){
 
 	for (let boxnum in boxes){
 		let box = boxes[boxnum];
-		let sprite = "sprite" + boxnum + ": (" + box.x 
-		+ ", " + box.y + ", " + box.width + ", " + box.height + ")"
+        // for xpos and ypos, you must make the initial positions negative due to the way
+        // css fetches sprites on images.
+		let sprite = "sprite" + boxnum + ": (" + -box.x 
+		+ "px, " + -box.y + "px, " + box.width + "px, " + box.height + "px)"
 		spriteMap = spriteMap + sprite;
 		if (boxnum !== boxes.length){
 			spriteMap = spriteMap + ", \n"
