@@ -1,5 +1,5 @@
 # sprite-finder
-A javascript tool for quickly generating the locations of sprites on a spritesheet image file.
+A javascript tool for quickly generating the locations of sprites on a spritesheet image file. Uses Bootstrap for look and feel.
 
 To run: Download the repository and open index.html in your browser.
 
