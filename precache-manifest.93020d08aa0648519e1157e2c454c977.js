@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "64fb8978c656473aa82b09cd23e7e750",
+    "revision": "2f048bd57dc0fa81c2b46f3c872278a6",
     "url": "/sprite-finder/index.html"
   },
   {
