@@ -1,0 +1,11 @@
+{
+  "files": {
+    "main.js": "/sprite-finder/static/js/main.d94ff1dd.chunk.js",
+    "main.js.map": "/sprite-finder/static/js/main.d94ff1dd.chunk.js.map",
+    "runtime~main.js": "/sprite-finder/static/js/runtime~main.3fb8c9a1.js",
+    "runtime~main.js.map": "/sprite-finder/static/js/runtime~main.3fb8c9a1.js.map",
+    "index.html": "/sprite-finder/index.html",
+    "precache-manifest.21e67aedc1f68e51c0de12a81eeca2e3.js": "/sprite-finder/precache-manifest.21e67aedc1f68e51c0de12a81eeca2e3.js",
+    "service-worker.js": "/sprite-finder/service-worker.js"
+  }
+}
