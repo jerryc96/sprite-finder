@@ -1,11 +1,13 @@
 {
   "files": {
-    "main.js": "/sprite-finder/static/js/main.d94ff1dd.chunk.js",
-    "main.js.map": "/sprite-finder/static/js/main.d94ff1dd.chunk.js.map",
+    "main.js": "/sprite-finder/static/js/main.734b969e.chunk.js",
+    "main.js.map": "/sprite-finder/static/js/main.734b969e.chunk.js.map",
     "runtime~main.js": "/sprite-finder/static/js/runtime~main.3fb8c9a1.js",
     "runtime~main.js.map": "/sprite-finder/static/js/runtime~main.3fb8c9a1.js.map",
+    "static/js/2.4cd06c51.chunk.js": "/sprite-finder/static/js/2.4cd06c51.chunk.js",
+    "static/js/2.4cd06c51.chunk.js.map": "/sprite-finder/static/js/2.4cd06c51.chunk.js.map",
     "index.html": "/sprite-finder/index.html",
-    "precache-manifest.21e67aedc1f68e51c0de12a81eeca2e3.js": "/sprite-finder/precache-manifest.21e67aedc1f68e51c0de12a81eeca2e3.js",
+    "precache-manifest.d4c9423e9d0344c500bca1b7ef0f5988.js": "/sprite-finder/precache-manifest.d4c9423e9d0344c500bca1b7ef0f5988.js",
     "service-worker.js": "/sprite-finder/service-worker.js"
   }
 }
